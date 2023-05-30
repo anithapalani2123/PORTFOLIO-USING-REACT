@@ -362,10 +362,7 @@ export default App;
 
 ![p1](https://github.com/anithapalani2123/PORTFOLIO-USING-REACT/assets/94184990/c801643c-12b6-4434-87ae-5dec2ef949d3)
 ![p5](https://github.com/anithapalani2123/PORTFOLIO-USING-REACT/assets/94184990/83165955-4af7-49d6-bed5-89db4392f791)
-
-![p3](https://github.com/anithapalani2123/PORTFOLIO-USING-REACT/assets/94184990/34e988f2-86bb-405b-ba50-4f40f9051d83)
-
-![p4](https://github.com/anithapalani2123/PORTFOLIO-USING-REACT/assets/94184990/db5eea08-f62c-4929-86ef-9d5d2eafe6ac)
+![p3](https://github.com/anithapalani2123/PORTFOLIO-USING-REACT/assets/94184990/34e988f2-86bb-405b-ba50-4f40f9051d83)![p4](https://github.com/anithapalani2123/PORTFOLIO-USING-REACT/assets/94184990/db5eea08-f62c-4929-86ef-9d5d2eafe6ac)
 
 
 
